@@ -1,4 +1,4 @@
-package com.alilopez.kt_demohilt.features.metals.data.datasources.remote.model
+package com.alilopez.kt_demohilt.features.metals.data.datasources.remote.models
 
 import com.google.gson.annotations.SerializedName
 

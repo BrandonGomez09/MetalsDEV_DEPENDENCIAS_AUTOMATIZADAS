@@ -1,7 +1,7 @@
 package com.alilopez.kt_demohilt.features.metals.di
 
 import com.alilopez.kt_demohilt.core.di.MetalsRetrofit
-import com.alilopez.kt_demohilt.features.metals.data.datasources.remote.MetalsApi
+import com.alilopez.kt_demohilt.features.metals.data.datasources.remote.api.MetalsApi
 import com.alilopez.kt_demohilt.features.metals.data.repositories.MetalsRepositoryImpl
 import com.alilopez.kt_demohilt.features.metals.domain.repositories.MetalsRepository
 import dagger.Binds
